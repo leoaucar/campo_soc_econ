@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import os
 import re
+import pandas as pd
 
 path_dados = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..','Data','raw'))
 
@@ -31,6 +32,15 @@ for p in projetos:
 
 h1_tag = soup.find("h1", string='Projetos de pesquisa')
 #print(h1_tag)
+
+colaboradores = []
 next_element = h1_tag.find_all_next(text=re.compile("^Integrantes.*"))
 for i in next_element:
-    print(i)
+    colaborou_com = re.findall(r'([A-ZÁÉÍÓÚÂÊÔÃÕÇ][a-záéíóúâêôãõç]+(?:\s+[A-ZÁÉÍÓÚÂÊÔÃÕÇ][a-záéíóúâêôãõç]+)+)\s+-\s+(?:Integrante|Coordenador)', i)[1:]
+    if len(colaborou_com) > 0:
+        colaboradores.extend(colaborou_com)
+
+rede = pd.DataFrame(columns=['Pessoa1','Pessoa2'])
+rede['Pessoa2'] = colaboradores
+rede['Pessoa1'] = "Rodrigo Salles Pereira dos Santos"
+rede.to_csv('rede_rodrigo.csv')
