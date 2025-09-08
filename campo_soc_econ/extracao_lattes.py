@@ -8,7 +8,7 @@ path_dados = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..','Dat
 #define arquivos para busca
 arquivo = 'Currículo do Sistema de Currículos Lattes (Rodrigo Salles Pereira dos Santos).html'
 path_arquivo = os.path.abspath(os.path.join(path_dados,arquivo))
-
+path_arquivo = r'C:\Users\leoau\Documents\campo_soc_econ\campo_soc_econ\Data\raw\Currículo do Sistema de Currículos Lattes (Rodrigo Salles Pereira dos Santos).html'
 
 #parseia o HTML
 with open(path_arquivo, "r") as file:
@@ -36,9 +36,20 @@ h1_tag = soup.find("h1", string='Projetos de pesquisa')
 colaboradores = []
 next_element = h1_tag.find_all_next(text=re.compile("^Integrantes.*"))
 for i in next_element:
-    colaborou_com = re.findall(r'([A-ZÁÉÍÓÚÂÊÔÃÕÇ][a-záéíóúâêôãõç]+(?:\s+[A-ZÁÉÍÓÚÂÊÔÃÕÇ][a-záéíóúâêôãõç]+)+)\s+-\s+(?:Integrante|Coordenador)', i)[1:]
-    if len(colaborou_com) > 0:
-        colaboradores.extend(colaborou_com)
+    i = i.replace("Rodrigo Salles Pereira dos Santos", "")
+    i = i.replace('Integrantes:', '')
+    i = i.replace('- Coordenador', '')
+    i = i.replace('- Integrante','')
+    i = i.replace('.','')
+    i = i.split('/')
+    i = [item.strip() for item in i]
+    colaboradores.extend(i)
+    #colaborou_com = re.findall(r'([A-ZÁÉÍÓÚÂÊÔÃÕÇ][a-záéíóúâêôãõç]+(?:\s+[A-ZÁÉÍÓÚÂÊÔÃÕÇ][a-záéíóúâêôãõç]+)+)\s+-\s+(?:Integrante|Coordenador)', i)[1:]
+    #if len(colaborou_com) > 0:
+    #    print("PROJETO:\n")
+    #    colaboradores.extend(colaborou_com)
+    #    print(colaborou_com)
+    #    print('PROXIMO PROJETO:')
 
 rede = pd.DataFrame(columns=['Pessoa1','Pessoa2'])
 rede['Pessoa2'] = colaboradores

@@ -1,202 +1,318 @@
 ,Pessoa1,Pessoa2
-0,Rodrigo Salles Pereira dos Santos,Roberto Carlos Araya Valenzuela
-1,Rodrigo Salles Pereira dos Santos,Jorge Ernesto Álvarez Scaniello
-2,Rodrigo Salles Pereira dos Santos,Mariana Dora Luzzi
-3,Rodrigo Salles Pereira dos Santos,Tomás Undurraga
-4,Rodrigo Salles Pereira dos Santos,Victor Pimentel Ferreira
-5,Rodrigo Salles Pereira dos Santos,Souza Barbosa
-6,Rodrigo Salles Pereira dos Santos,Silva Walmrath Reis
-7,Rodrigo Salles Pereira dos Santos,Tarik Dias Hamdan
-8,Rodrigo Salles Pereira dos Santos,Lucas Lemos Walmrath
-9,Rodrigo Salles Pereira dos Santos,Souza Barbosa
-10,Rodrigo Salles Pereira dos Santos,Leonardo Nogueira Aucar
-11,Rodrigo Salles Pereira dos Santos,Milena Mendes Salles
-12,Rodrigo Salles Pereira dos Santos,Miranda Alves
-13,Rodrigo Salles Pereira dos Santos,Nicole Aparecida Monteiro Giori
-14,Rodrigo Salles Pereira dos Santos,Bruna Biesdorf Barro
-15,Rodrigo Salles Pereira dos Santos,Souza Malhano
-16,Rodrigo Salles Pereira dos Santos,Albuquerque Prado
-17,Rodrigo Salles Pereira dos Santos,Tarik Dias Hamdan
-18,Rodrigo Salles Pereira dos Santos,Rodolfo Palazzo Dias
-19,Rodrigo Salles Pereira dos Santos,Lucas Lemos Walmrath
-20,Rodrigo Salles Pereira dos Santos,Souza Barbosa
-21,Rodrigo Salles Pereira dos Santos,Ana Paula Vasconcelos Gonçalves
+0,Rodrigo Salles Pereira dos Santos,
+1,Rodrigo Salles Pereira dos Santos,Luis Ignacio Schiappacasse Bofill
+2,Rodrigo Salles Pereira dos Santos,Roberto Carlos Araya Valenzuela
+3,Rodrigo Salles Pereira dos Santos,
+4,Rodrigo Salles Pereira dos Santos,Bruna Biesdorf Barro
+5,Rodrigo Salles Pereira dos Santos,Jorge Ernesto Álvarez Scaniello
+6,Rodrigo Salles Pereira dos Santos,Mariana Dora Luzzi
+7,Rodrigo Salles Pereira dos Santos,Tomás Undurraga
+8,Rodrigo Salles Pereira dos Santos,Victor Pimentel Ferreira
+9,Rodrigo Salles Pereira dos Santos,
+10,Rodrigo Salles Pereira dos Santos,Tarik Dias Hamdan
+11,Rodrigo Salles Pereira dos Santos,Mayra Luíza Pinheiro da Silva
+12,Rodrigo Salles Pereira dos Santos,Marcio Moises de Souza Barbosa
+13,Rodrigo Salles Pereira dos Santos,João Pedro Machado Lino do Nascimento
+14,Rodrigo Salles Pereira dos Santos,Caroline Pereira de Lima
+15,Rodrigo Salles Pereira dos Santos,Camila Luiza de Sena
+16,Rodrigo Salles Pereira dos Santos,Lucas Lemos da Silva Walmrath Reis
+17,Rodrigo Salles Pereira dos Santos,
+18,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
+19,Rodrigo Salles Pereira dos Santos,Tarik Dias Hamdan
+20,Rodrigo Salles Pereira dos Santos,Lucas Lemos Walmrath
+21,Rodrigo Salles Pereira dos Santos,Marcio Moises de Souza Barbosa
 22,Rodrigo Salles Pereira dos Santos,Leonardo Nogueira Aucar
-23,Rodrigo Salles Pereira dos Santos,Milena Mendes Salles
-24,Rodrigo Salles Pereira dos Santos,Miranda Alves
-25,Rodrigo Salles Pereira dos Santos,Nicole Aparecida Monteiro Giori
-26,Rodrigo Salles Pereira dos Santos,Pedro Salomon Bezerra Mouallem
-27,Rodrigo Salles Pereira dos Santos,Bruna Biesdorf Barro
-28,Rodrigo Salles Pereira dos Santos,Souza Malhano
-29,Rodrigo Salles Pereira dos Santos,Albuquerque Prado
-30,Rodrigo Salles Pereira dos Santos,Nicole Aparecida Monteiro Giori
-31,Rodrigo Salles Pereira dos Santos,Souza Malhano
-32,Rodrigo Salles Pereira dos Santos,Albuquerque Prado
-33,Rodrigo Salles Pereira dos Santos,Lara Mel Soares Di Leta
-34,Rodrigo Salles Pereira dos Santos,Paulo Roberto Ribeiro Fontes
-35,Rodrigo Salles Pereira dos Santos,Leonardo Nogueira Aucar
-36,Rodrigo Salles Pereira dos Santos,Lise Fernanda Sedrez
-37,Rodrigo Salles Pereira dos Santos,Luis Paulo Bresciani
-38,Rodrigo Salles Pereira dos Santos,Antonio Luigi Negro
-39,Rodrigo Salles Pereira dos Santos,Stefan Berger
-40,Rodrigo Salles Pereira dos Santos,Constantin Goschler
-41,Rodrigo Salles Pereira dos Santos,Thorbin Pieper
-42,Rodrigo Salles Pereira dos Santos,Costa Lima
-43,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
-44,Rodrigo Salles Pereira dos Santos,Tarik Dias Hamdan
-45,Rodrigo Salles Pereira dos Santos,Rodolfo Palazzo Dias
-46,Rodrigo Salles Pereira dos Santos,Lucas Lemos Walmrath
-47,Rodrigo Salles Pereira dos Santos,Souza Barbosa
-48,Rodrigo Salles Pereira dos Santos,Ana Paula Vasconcelos Gonçalves
-49,Rodrigo Salles Pereira dos Santos,Leonardo Nogueira Aucar
-50,Rodrigo Salles Pereira dos Santos,Miranda Alves
-51,Rodrigo Salles Pereira dos Santos,Pedro Salomon Bezerra Mouallem
-52,Rodrigo Salles Pereira dos Santos,Nicole Aparecida Monteiro Giori
-53,Rodrigo Salles Pereira dos Santos,Souza Malhano
-54,Rodrigo Salles Pereira dos Santos,Albuquerque Prado
-55,Rodrigo Salles Pereira dos Santos,Lara Mel Soares Di Leta
-56,Rodrigo Salles Pereira dos Santos,Espírito Santo Alvim
-57,Rodrigo Salles Pereira dos Santos,Santa Catharina
-58,Rodrigo Salles Pereira dos Santos,Lucas Lemos Walmrath
-59,Rodrigo Salles Pereira dos Santos,Cloviomar Cararine Pereira
-60,Rodrigo Salles Pereira dos Santos,Diego José Nogueira Fraga
-61,Rodrigo Salles Pereira dos Santos,Moraes Wanderley
-62,Rodrigo Salles Pereira dos Santos,Raquel Giffoni Pinto
-63,Rodrigo Salles Pereira dos Santos,Elis Miranda
-64,Rodrigo Salles Pereira dos Santos,Silva Seabra
-65,Rodrigo Salles Pereira dos Santos,Gilse Barbosa Guedes
-66,Rodrigo Salles Pereira dos Santos,Luis Isidro Rogerio Bembele
-67,Rodrigo Salles Pereira dos Santos,Oliveira Penna Firme Pellini
-68,Rodrigo Salles Pereira dos Santos,Tarik Dias Hamdan
-69,Rodrigo Salles Pereira dos Santos,Lucas Lemos Walmrath
-70,Rodrigo Salles Pereira dos Santos,Vítor Rodrigues Ferreira
-71,Rodrigo Salles Pereira dos Santos,Souza Barbosa
-72,Rodrigo Salles Pereira dos Santos,Ana Paula Vasconcelos Gonçalves
-73,Rodrigo Salles Pereira dos Santos,Leonardo Nogueira Aucar
-74,Rodrigo Salles Pereira dos Santos,Diego Moreira Maggi
-75,Rodrigo Salles Pereira dos Santos,Milena Mendes Salles
-76,Rodrigo Salles Pereira dos Santos,Miranda Alves
-77,Rodrigo Salles Pereira dos Santos,Nicole Aparecida Monteiro Giori
-78,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
-79,Rodrigo Salles Pereira dos Santos,Maíra Sertã Mansur
-80,Rodrigo Salles Pereira dos Santos,Moraes Wanderley
-81,Rodrigo Salles Pereira dos Santos,Raquel Giffoni Pinto
-82,Rodrigo Salles Pereira dos Santos,Assis Fernandes Gonçalves
-83,Rodrigo Salles Pereira dos Santos,Tádzio Peters Coelho
-84,Rodrigo Salles Pereira dos Santos,Neves Bezerra
-85,Rodrigo Salles Pereira dos Santos,Carvalho Cordeiro
-86,Rodrigo Salles Pereira dos Santos,Costa Lima
-87,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
-88,Rodrigo Salles Pereira dos Santos,Elaine Marlova Venzon Francisco
-89,Rodrigo Salles Pereira dos Santos,Bruno Milanez
-90,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
-91,Rodrigo Salles Pereira dos Santos,María Gabriela Scotto
-92,Rodrigo Salles Pereira dos Santos,Andréa Luisa Zhouri Laschefski
-93,Rodrigo Salles Pereira dos Santos,Ana Paula Poll
-94,Rodrigo Salles Pereira dos Santos,Neves Bezerra
-95,Rodrigo Salles Pereira dos Santos,Carvalho Cordeiro
-96,Rodrigo Salles Pereira dos Santos,Costa Lima
-97,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
-98,Rodrigo Salles Pereira dos Santos,Garza Toledo
-99,Rodrigo Salles Pereira dos Santos,Cecilia Senén
-100,Rodrigo Salles Pereira dos Santos,Juan Carlos Célis Ospina
-101,Rodrigo Salles Pereira dos Santos,Consuelo Iranzo
-102,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
-103,Rodrigo Salles Pereira dos Santos,Cristiane Dornellas Ribeiro
-104,Rodrigo Salles Pereira dos Santos,Iram Jácome Rodrigues
-105,Rodrigo Salles Pereira dos Santos,Marcelo Domingos Sampaio Carneiro
-106,Rodrigo Salles Pereira dos Santos,William Santos Assis
-107,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
-108,Rodrigo Salles Pereira dos Santos,Luiz Fernando Almeida Pereira
-109,Rodrigo Salles Pereira dos Santos,Elizabeth Brauer
-110,Rodrigo Salles Pereira dos Santos,Maria Lúcia Pontual Braga
-111,Rodrigo Salles Pereira dos Santos,Elizabeth Brauer
-112,Rodrigo Salles Pereira dos Santos,Maria Lúcia Pontual Braga
-113,Rodrigo Salles Pereira dos Santos,Maria Lúcia Pontual Braga
-114,Rodrigo Salles Pereira dos Santos,Érico Muniz Corrêa
-115,Rodrigo Salles Pereira dos Santos,Maria Lúcia Pontual Braga
-116,Rodrigo Salles Pereira dos Santos,Alessandra Benevides Tornentino
-117,Rodrigo Salles Pereira dos Santos,Souza Pereira
-118,Rodrigo Salles Pereira dos Santos,Elizabeth Brauer
-119,Rodrigo Salles Pereira dos Santos,Maria Lúcia Pontual Braga
-120,Rodrigo Salles Pereira dos Santos,Alessandra Benevides Tornentino
-121,Rodrigo Salles Pereira dos Santos,Souza Pereira
-122,Rodrigo Salles Pereira dos Santos,Elizabeth Brauer
-123,Rodrigo Salles Pereira dos Santos,Maria Lúcia Pontual Braga
-124,Rodrigo Salles Pereira dos Santos,Souza Pereira
-125,Rodrigo Salles Pereira dos Santos,Iara Moraes Xavier
-126,Rodrigo Salles Pereira dos Santos,Souza Pereira
-127,Rodrigo Salles Pereira dos Santos,Mirela Cocco Fontes
-128,Rodrigo Salles Pereira dos Santos,Maria Lúcia Pontual Braga
-129,Rodrigo Salles Pereira dos Santos,Barros Falcão
-130,Rodrigo Salles Pereira dos Santos,Silvia Maria Melo Gonçalves
-131,Rodrigo Salles Pereira dos Santos,Estrella Carballosa Prol
-132,Rodrigo Salles Pereira dos Santos,Jean Christophe Aveline
-133,Rodrigo Salles Pereira dos Santos,João Saboia
-134,Rodrigo Salles Pereira dos Santos,Paulo Gonzaga
-135,Rodrigo Salles Pereira dos Santos,Paulo Roberto Ribeiro Fontes
-136,Rodrigo Salles Pereira dos Santos,Maíra Sertã Mansur
-137,Rodrigo Salles Pereira dos Santos,Moraes Wanderley
-138,Rodrigo Salles Pereira dos Santos,Raquel Giffoni Pinto
-139,Rodrigo Salles Pereira dos Santos,Assis Fernandes Gonçalves
-140,Rodrigo Salles Pereira dos Santos,Tádzio Peters Coelho
-141,Rodrigo Salles Pereira dos Santos,Karina Yoshie Martins Kato
-142,Rodrigo Salles Pereira dos Santos,Lucas Magno
-143,Rodrigo Salles Pereira dos Santos,Miguel Fernandes Felippe
-144,Rodrigo Salles Pereira dos Santos,Karine Carneiro
-145,Rodrigo Salles Pereira dos Santos,Alessandra Cardoso
-146,Rodrigo Salles Pereira dos Santos,Oliveira Penna Firme Pellini
-147,Rodrigo Salles Pereira dos Santos,Tarik Dias Hamdan
-148,Rodrigo Salles Pereira dos Santos,Vasconcelos Cardoso
-149,Rodrigo Salles Pereira dos Santos,Elizabeth Brauer
-150,Rodrigo Salles Pereira dos Santos,Eloisa Helena Freire
-151,Rodrigo Salles Pereira dos Santos,Silvia Helena Tedesco
-152,Rodrigo Salles Pereira dos Santos,Guilherme Tadeu Soares
-153,Rodrigo Salles Pereira dos Santos,Katia Aguiar
-154,Rodrigo Salles Pereira dos Santos,Claudia Osorio
-155,Rodrigo Salles Pereira dos Santos,Maria Lúcia Pontual Braga
-156,Rodrigo Salles Pereira dos Santos,José Eduardo Leon Szwako
-157,Rodrigo Salles Pereira dos Santos,Mariana Miggiolaro Chaguri
-158,Rodrigo Salles Pereira dos Santos,Bruno Ranieri
-159,Rodrigo Salles Pereira dos Santos,Camilo Flamarion
-160,Rodrigo Salles Pereira dos Santos,San Romanelli Assumpção
-161,Rodrigo Salles Pereira dos Santos,José Eduardo Leon Szwako
-162,Rodrigo Salles Pereira dos Santos,Mariana Miggiolaro Chaguri
-163,Rodrigo Salles Pereira dos Santos,Bruno Ranieri
-164,Rodrigo Salles Pereira dos Santos,Camilo Flamarion
-165,Rodrigo Salles Pereira dos Santos,San Romanelli Assumpção
-166,Rodrigo Salles Pereira dos Santos,Neves Bezerra
-167,Rodrigo Salles Pereira dos Santos,Costa Lima
-168,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
-169,Rodrigo Salles Pereira dos Santos,Maíra Sertã Mansur
-170,Rodrigo Salles Pereira dos Santos,Oliveira Penna Firme Pellini
-171,Rodrigo Salles Pereira dos Santos,Tarik Dias Hamdan
-172,Rodrigo Salles Pereira dos Santos,Rodolfo Palazzo Dias
-173,Rodrigo Salles Pereira dos Santos,Lucas Lemos Walmrath
-174,Rodrigo Salles Pereira dos Santos,Vítor Rodrigues Ferreira
-175,Rodrigo Salles Pereira dos Santos,Souza Barbosa
-176,Rodrigo Salles Pereira dos Santos,Ana Paula Vasconcelos Gonçalves
-177,Rodrigo Salles Pereira dos Santos,Leonardo Nogueira Aucar
-178,Rodrigo Salles Pereira dos Santos,Cloviomar Cararine Pereira
-179,Rodrigo Salles Pereira dos Santos,Gilse Barbosa Guedes
-180,Rodrigo Salles Pereira dos Santos,Luis Isidro Rogerio Bembele
-181,Rodrigo Salles Pereira dos Santos,Diego José Nogueira Fraga
-182,Rodrigo Salles Pereira dos Santos,Diego Moreira Maggi
-183,Rodrigo Salles Pereira dos Santos,Marcos Lázaro Prado
-184,Rodrigo Salles Pereira dos Santos,Gabriela Fraga Fernandez
-185,Rodrigo Salles Pereira dos Santos,França Paes
-186,Rodrigo Salles Pereira dos Santos,Lucas Brito Muniz
-187,Rodrigo Salles Pereira dos Santos,Vítor Mussa Tavares Gomes
-188,Rodrigo Salles Pereira dos Santos,Maíra Sertã Mansur
-189,Rodrigo Salles Pereira dos Santos,Moraes Wanderley
-190,Rodrigo Salles Pereira dos Santos,Raquel Giffoni Pinto
-191,Rodrigo Salles Pereira dos Santos,Assis Fernandes Gonçalves
-192,Rodrigo Salles Pereira dos Santos,Tádzio Peters Coelho
-193,Rodrigo Salles Pereira dos Santos,Lucas Magno
-194,Rodrigo Salles Pereira dos Santos,Gustavo Soares Iorio
-195,Rodrigo Salles Pereira dos Santos,Carvalho Cordeiro
-196,Rodrigo Salles Pereira dos Santos,Costa Lima
-197,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
-198,Rodrigo Salles Pereira dos Santos,Oliveira Moura Dias
-199,Rodrigo Salles Pereira dos Santos,Ana Paula Vasconcelos Gonçalves
-200,Rodrigo Salles Pereira dos Santos,João Assis Dulci
+23,Rodrigo Salles Pereira dos Santos,João Pedro Machado Lino do Nascimento
+24,Rodrigo Salles Pereira dos Santos,Caroline Pereira de Lima
+25,Rodrigo Salles Pereira dos Santos,Milena Mendes Salles
+26,Rodrigo Salles Pereira dos Santos,Ana Clara de Miranda Alves
+27,Rodrigo Salles Pereira dos Santos,Nicole Aparecida Monteiro Giori
+28,Rodrigo Salles Pereira dos Santos,Camila Luiza de Sena
+29,Rodrigo Salles Pereira dos Santos,Bruna Biesdorf Barro
+30,Rodrigo Salles Pereira dos Santos,Jéssika Maria de Souza Malhano
+31,Rodrigo Salles Pereira dos Santos,Marco Antônio de Albuquerque Prado
+32,Rodrigo Salles Pereira dos Santos,Thayla da Silva de Oliveira
+33,Rodrigo Salles Pereira dos Santos,
+34,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
+35,Rodrigo Salles Pereira dos Santos,Tarik Dias Hamdan
+36,Rodrigo Salles Pereira dos Santos,Rodolfo Palazzo Dias
+37,Rodrigo Salles Pereira dos Santos,Lucas Lemos Walmrath
+38,Rodrigo Salles Pereira dos Santos,Marcio Moises de Souza Barbosa
+39,Rodrigo Salles Pereira dos Santos,Ana Paula Vasconcelos Gonçalves
+40,Rodrigo Salles Pereira dos Santos,Leonardo Nogueira Aucar
+41,Rodrigo Salles Pereira dos Santos,João Pedro Machado Lino do Nascimento
+42,Rodrigo Salles Pereira dos Santos,Thiago Trindade de Aguiar
+43,Rodrigo Salles Pereira dos Santos,Caroline Pereira de Lima
+44,Rodrigo Salles Pereira dos Santos,Milena Mendes Salles
+45,Rodrigo Salles Pereira dos Santos,Ana Clara de Miranda Alves
+46,Rodrigo Salles Pereira dos Santos,Nicole Aparecida Monteiro Giori
+47,Rodrigo Salles Pereira dos Santos,Camila Luiza de Sena
+48,Rodrigo Salles Pereira dos Santos,Pedro Salomon Bezerra Mouallem
+49,Rodrigo Salles Pereira dos Santos,Bruna Biesdorf Barro
+50,Rodrigo Salles Pereira dos Santos,Jéssika Maria de Souza Malhano
+51,Rodrigo Salles Pereira dos Santos,Marco Antônio de Albuquerque Prado
+52,Rodrigo Salles Pereira dos Santos,Thayla da Silva de Oliveira
+53,Rodrigo Salles Pereira dos Santos,
+54,Rodrigo Salles Pereira dos Santos,João Pedro Machado Lino do Nascimento
+55,Rodrigo Salles Pereira dos Santos,Caroline Pereira de Lima
+56,Rodrigo Salles Pereira dos Santos,Ana Clara de Miranda Alves
+57,Rodrigo Salles Pereira dos Santos,Nicole Aparecida Monteiro Giori
+58,Rodrigo Salles Pereira dos Santos,Jéssika Maria de Souza Malhano
+59,Rodrigo Salles Pereira dos Santos,Marco Antônio de Albuquerque Prado
+60,Rodrigo Salles Pereira dos Santos,Lara Mel Soares Di Leta
+61,Rodrigo Salles Pereira dos Santos,
+62,Rodrigo Salles Pereira dos Santos,Tarik Dias Hamdan
+63,Rodrigo Salles Pereira dos Santos,Paulo Roberto Ribeiro Fontes
+64,Rodrigo Salles Pereira dos Santos,Leonardo Nogueira Aucar
+65,Rodrigo Salles Pereira dos Santos,Mahatma Ramos dos Santos
+66,Rodrigo Salles Pereira dos Santos,Lise Fernanda Sedrez
+67,Rodrigo Salles Pereira dos Santos,Luis Paulo Bresciani
+68,Rodrigo Salles Pereira dos Santos,Antonio Luigi Negro
+69,Rodrigo Salles Pereira dos Santos,Stefan Berger
+70,Rodrigo Salles Pereira dos Santos,Constantin Goschler
+71,Rodrigo Salles Pereira dos Santos,Thorbin Pieper
+72,Rodrigo Salles Pereira dos Santos,
+73,Rodrigo Salles Pereira dos Santos,Cristiano Fonseca Monteiro
+74,Rodrigo Salles Pereira dos Santos,Raphael Jonathas da Costa Lima
+75,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
+76,Rodrigo Salles Pereira dos Santos,Tarik Dias Hamdan
+77,Rodrigo Salles Pereira dos Santos,Rodolfo Palazzo Dias
+78,Rodrigo Salles Pereira dos Santos,Lucas Lemos Walmrath
+79,Rodrigo Salles Pereira dos Santos,Marcio Moises de Souza Barbosa
+80,Rodrigo Salles Pereira dos Santos,Ana Paula Vasconcelos Gonçalves
+81,Rodrigo Salles Pereira dos Santos,Leonardo Nogueira Aucar
+82,Rodrigo Salles Pereira dos Santos,João Pedro Machado Lino do Nascimento
+83,Rodrigo Salles Pereira dos Santos,Thiago Trindade de Aguiar
+84,Rodrigo Salles Pereira dos Santos,Caroline Pereira de Lima
+85,Rodrigo Salles Pereira dos Santos,Ana Clara de Miranda Alves
+86,Rodrigo Salles Pereira dos Santos,Pedro Salomon Bezerra Mouallem
+87,Rodrigo Salles Pereira dos Santos,
+88,Rodrigo Salles Pereira dos Santos,João Pedro Machado Lino do Nascimento
+89,Rodrigo Salles Pereira dos Santos,Caroline Pereira de Lima
+90,Rodrigo Salles Pereira dos Santos,Ana Clara de Miranda Alves
+91,Rodrigo Salles Pereira dos Santos,Nicole Aparecida Monteiro Giori
+92,Rodrigo Salles Pereira dos Santos,Jéssika Maria de Souza Malhano
+93,Rodrigo Salles Pereira dos Santos,Marco Antônio de Albuquerque Prado
+94,Rodrigo Salles Pereira dos Santos,Lara Mel Soares Di Leta
+95,Rodrigo Salles Pereira dos Santos,Luana do Espírito Santo Alvim
+96,Rodrigo Salles Pereira dos Santos,Ana Beatriz Villca de Santa Catharina
+97,Rodrigo Salles Pereira dos Santos,
+98,Rodrigo Salles Pereira dos Santos,Rodolfo Palazzo Dias
+99,Rodrigo Salles Pereira dos Santos,Lucas Lemos Walmrath
+100,Rodrigo Salles Pereira dos Santos,Cloviomar Cararine Pereira
+101,Rodrigo Salles Pereira dos Santos,Mahatma Ramos dos Santos
+102,Rodrigo Salles Pereira dos Santos,Diego José Nogueira Fraga
+103,Rodrigo Salles Pereira dos Santos,
+104,Rodrigo Salles Pereira dos Santos,Maíra Sertã Mansur
+105,Rodrigo Salles Pereira dos Santos,Luiz Jardim de Moraes Wanderley
+106,Rodrigo Salles Pereira dos Santos,Raquel Giffoni Pinto
+107,Rodrigo Salles Pereira dos Santos,Elis Miranda
+108,Rodrigo Salles Pereira dos Santos,Vinicius da Silva Seabra
+109,Rodrigo Salles Pereira dos Santos,Gilse Barbosa Guedes
+110,Rodrigo Salles Pereira dos Santos,Luis Isidro Rogerio Bembele
+111,Rodrigo Salles Pereira dos Santos,
+112,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
+113,Rodrigo Salles Pereira dos Santos,Isabela Fonseca dos Santos
+114,Rodrigo Salles Pereira dos Santos,Maurício de Oliveira Penna Firme Pellini
+115,Rodrigo Salles Pereira dos Santos,Tarik Dias Hamdan
+116,Rodrigo Salles Pereira dos Santos,Lucas Lemos Walmrath
+117,Rodrigo Salles Pereira dos Santos,Mayra Luíza Pinheiro da Silva
+118,Rodrigo Salles Pereira dos Santos,Vítor Rodrigues Ferreira
+119,Rodrigo Salles Pereira dos Santos,Marcio Moises de Souza Barbosa
+120,Rodrigo Salles Pereira dos Santos,Ana Paula Vasconcelos Gonçalves
+121,Rodrigo Salles Pereira dos Santos,Leonardo Nogueira Aucar
+122,Rodrigo Salles Pereira dos Santos,João Pedro Machado Lino do Nascimento
+123,Rodrigo Salles Pereira dos Santos,Diego Moreira Maggi
+124,Rodrigo Salles Pereira dos Santos,Caroline Pereira de Lima
+125,Rodrigo Salles Pereira dos Santos,Milena Mendes Salles
+126,Rodrigo Salles Pereira dos Santos,Ana Clara de Miranda Alves
+127,Rodrigo Salles Pereira dos Santos,Nicole Aparecida Monteiro Giori
+128,Rodrigo Salles Pereira dos Santos,Camila Luiza de Sena
+129,Rodrigo Salles Pereira dos Santos,
+130,Rodrigo Salles Pereira dos Santos,Bruno Milanez
+131,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
+132,Rodrigo Salles Pereira dos Santos,Maíra Sertã Mansur
+133,Rodrigo Salles Pereira dos Santos,Luiz Jardim de Moraes Wanderley
+134,Rodrigo Salles Pereira dos Santos,Raquel Giffoni Pinto
+135,Rodrigo Salles Pereira dos Santos,Ricardo Junior de Assis Fernandes Gonçalves
+136,Rodrigo Salles Pereira dos Santos,Tádzio Peters Coelho
+137,Rodrigo Salles Pereira dos Santos,
+138,Rodrigo Salles Pereira dos Santos,Cristiano Fonseca Monteiro
+139,Rodrigo Salles Pereira dos Santos,Gustavo Antonio das Neves Bezerra
+140,Rodrigo Salles Pereira dos Santos,Marina de Carvalho Cordeiro
+141,Rodrigo Salles Pereira dos Santos,Raphael Jonathas da Costa Lima
+142,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
+143,Rodrigo Salles Pereira dos Santos,Elaine Marlova Venzon Francisco
+144,Rodrigo Salles Pereira dos Santos,
+145,Rodrigo Salles Pereira dos Santos,Raphael Jonathas da Costa Lima
+146,Rodrigo Salles Pereira dos Santos,Bruno Milanez
+147,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
+148,Rodrigo Salles Pereira dos Santos,María Gabriela Scotto
+149,Rodrigo Salles Pereira dos Santos,Andréa Luisa Zhouri Laschefski
+150,Rodrigo Salles Pereira dos Santos,
+151,Rodrigo Salles Pereira dos Santos,
+152,Rodrigo Salles Pereira dos Santos,Lucas de Brito Muniz
+153,Rodrigo Salles Pereira dos Santos,
+154,Rodrigo Salles Pereira dos Santos,Cristiano Fonseca Monteiro
+155,Rodrigo Salles Pereira dos Santos,Ana Paula Poll
+156,Rodrigo Salles Pereira dos Santos,Gustavo Antonio das Neves Bezerra
+157,Rodrigo Salles Pereira dos Santos,Marina de Carvalho Cordeiro
+158,Rodrigo Salles Pereira dos Santos,Raphael Jonathas da Costa Lima
+159,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
+160,Rodrigo Salles Pereira dos Santos,
+161,Rodrigo Salles Pereira dos Santos,Marcela Hernández Romo
+162,Rodrigo Salles Pereira dos Santos,Enrique de la Garza Toledo
+163,Rodrigo Salles Pereira dos Santos,Cecilia Senén
+164,Rodrigo Salles Pereira dos Santos,Juan Carlos Célis Ospina
+165,Rodrigo Salles Pereira dos Santos,Consuelo Iranzo
+166,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
+167,Rodrigo Salles Pereira dos Santos,
+168,Rodrigo Salles Pereira dos Santos,Raphael de Viveiros Leitão
+169,Rodrigo Salles Pereira dos Santos,Cristiane Dornellas Ribeiro
+170,Rodrigo Salles Pereira dos Santos,
+171,Rodrigo Salles Pereira dos Santos,Neide Esterci
+172,Rodrigo Salles Pereira dos Santos,Iram Jácome Rodrigues
+173,Rodrigo Salles Pereira dos Santos,Marcelo Domingos Sampaio Carneiro
+174,Rodrigo Salles Pereira dos Santos,William Santos Assis
+175,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
+176,Rodrigo Salles Pereira dos Santos,
+177,Rodrigo Salles Pereira dos Santos,Bárbara Heliodora França Knoller Martins
+178,Rodrigo Salles Pereira dos Santos,Luiz Fernando Almeida Pereira
+179,Rodrigo Salles Pereira dos Santos,Elizabeth Brauer
+180,Rodrigo Salles Pereira dos Santos,Márcio Luiz A Carvalho
+181,Rodrigo Salles Pereira dos Santos,Maria Lúcia Pontual Braga
+182,Rodrigo Salles Pereira dos Santos,
+183,Rodrigo Salles Pereira dos Santos,Bárbara Heliodora França Knoller Martins
+184,Rodrigo Salles Pereira dos Santos,Elizabeth Brauer
+185,Rodrigo Salles Pereira dos Santos,Maria Lúcia Pontual Braga
+186,Rodrigo Salles Pereira dos Santos,
+187,Rodrigo Salles Pereira dos Santos,Elizabeth Brauer
+188,Rodrigo Salles Pereira dos Santos,Maria Lúcia Pontual Braga
+189,Rodrigo Salles Pereira dos Santos,Érico Muniz Corrêa
+190,Rodrigo Salles Pereira dos Santos,
+191,Rodrigo Salles Pereira dos Santos,Elizabeth Brauer
+192,Rodrigo Salles Pereira dos Santos,Maria Lúcia Pontual Braga
+193,Rodrigo Salles Pereira dos Santos,Alessandra Benevides Tornentino
+194,Rodrigo Salles Pereira dos Santos,Carlos William de Souza Pereira
+195,Rodrigo Salles Pereira dos Santos,
+196,Rodrigo Salles Pereira dos Santos,Bárbara Heliodora França Knoller Martins
+197,Rodrigo Salles Pereira dos Santos,Elizabeth Brauer
+198,Rodrigo Salles Pereira dos Santos,Maria Lúcia Pontual Braga
+199,Rodrigo Salles Pereira dos Santos,Alessandra Benevides Tornentino
+200,Rodrigo Salles Pereira dos Santos,Carlos William de Souza Pereira
+201,Rodrigo Salles Pereira dos Santos,Felipe Conti de Oliveira
+202,Rodrigo Salles Pereira dos Santos,
+203,Rodrigo Salles Pereira dos Santos,Bárbara Heliodora França Knoller Martins
+204,Rodrigo Salles Pereira dos Santos,Elizabeth Brauer
+205,Rodrigo Salles Pereira dos Santos,Maria Lúcia Pontual Braga
+206,Rodrigo Salles Pereira dos Santos,Carlos William de Souza Pereira
+207,Rodrigo Salles Pereira dos Santos,Iara Moraes Xavier
+208,Rodrigo Salles Pereira dos Santos,
+209,Rodrigo Salles Pereira dos Santos,Maria Lúcia Pontual Braga
+210,Rodrigo Salles Pereira dos Santos,Carlos William de Souza Pereira
+211,Rodrigo Salles Pereira dos Santos,Mirela Cocco Fontes
+212,Rodrigo Salles Pereira dos Santos,
+213,Rodrigo Salles Pereira dos Santos,Bárbara Heliodora França Knoller Martins
+214,Rodrigo Salles Pereira dos Santos,Maria Lúcia Pontual Braga
+215,Rodrigo Salles Pereira dos Santos,André Luis de Barros Falcão
+216,Rodrigo Salles Pereira dos Santos,Silvia Maria Melo Gonçalves
+217,Rodrigo Salles Pereira dos Santos,Estrella Carballosa Prol
+218,Rodrigo Salles Pereira dos Santos,Jean Christophe Aveline
+219,Rodrigo Salles Pereira dos Santos,João Saboia
+220,Rodrigo Salles Pereira dos Santos,Paulo Gonzaga
+221,Rodrigo Salles Pereira dos Santos,
+222,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
+223,Rodrigo Salles Pereira dos Santos,Paulo Roberto Ribeiro Fontes
+224,Rodrigo Salles Pereira dos Santos,
+225,Rodrigo Salles Pereira dos Santos,Bruno Milanez
+226,Rodrigo Salles Pereira dos Santos,Maíra Sertã Mansur
+227,Rodrigo Salles Pereira dos Santos,Luiz Jardim de Moraes Wanderley
+228,Rodrigo Salles Pereira dos Santos,Raquel Giffoni Pinto
+229,Rodrigo Salles Pereira dos Santos,Ricardo Junior de Assis Fernandes Gonçalves
+230,Rodrigo Salles Pereira dos Santos,Tádzio Peters Coelho
+231,Rodrigo Salles Pereira dos Santos,Karina Yoshie Martins Kato
+232,Rodrigo Salles Pereira dos Santos,Lucas Magno
+233,Rodrigo Salles Pereira dos Santos,Miguel Fernandes Felippe
+234,Rodrigo Salles Pereira dos Santos,Karine Carneiro
+235,Rodrigo Salles Pereira dos Santos,Alessandra Cardoso
+236,Rodrigo Salles Pereira dos Santos,Maurício de Oliveira Penna Firme Pellini
+237,Rodrigo Salles Pereira dos Santos,Tarik Dias Hamdan
+238,Rodrigo Salles Pereira dos Santos,
+239,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
+240,Rodrigo Salles Pereira dos Santos,Bruno de Vasconcelos Cardoso
+241,Rodrigo Salles Pereira dos Santos,
+242,Rodrigo Salles Pereira dos Santos,Bárbara Heliodora França Knoller Martins
+243,Rodrigo Salles Pereira dos Santos,Elizabeth Brauer
+244,Rodrigo Salles Pereira dos Santos,Emmanuel Paiva de Andrade
+245,Rodrigo Salles Pereira dos Santos,Eloisa Helena Freire
+246,Rodrigo Salles Pereira dos Santos,Silvia Helena Tedesco
+247,Rodrigo Salles Pereira dos Santos,Rafaelle Monteiro de Castro
+248,Rodrigo Salles Pereira dos Santos,Guilherme Tadeu Soares
+249,Rodrigo Salles Pereira dos Santos,Keila Lucio de Carvalho
+250,Rodrigo Salles Pereira dos Santos,Katia Aguiar
+251,Rodrigo Salles Pereira dos Santos,Claudia Osorio
+252,Rodrigo Salles Pereira dos Santos,Maria Lúcia Pontual Braga
+253,Rodrigo Salles Pereira dos Santos,
+254,Rodrigo Salles Pereira dos Santos,Elisa Maria da Conceição Pereira Reis
+255,Rodrigo Salles Pereira dos Santos,José Eduardo Leon Szwako
+256,Rodrigo Salles Pereira dos Santos,Mariana Miggiolaro Chaguri
+257,Rodrigo Salles Pereira dos Santos,Bruno Ranieri
+258,Rodrigo Salles Pereira dos Santos,Camilo Flamarion
+259,Rodrigo Salles Pereira dos Santos,João Feres Jr
+260,Rodrigo Salles Pereira dos Santos,San Romanelli Assumpção
+261,Rodrigo Salles Pereira dos Santos,
+262,Rodrigo Salles Pereira dos Santos,Elisa Maria da Conceição Pereira Reis
+263,Rodrigo Salles Pereira dos Santos,José Eduardo Leon Szwako
+264,Rodrigo Salles Pereira dos Santos,Mariana Miggiolaro Chaguri
+265,Rodrigo Salles Pereira dos Santos,Bruno Ranieri
+266,Rodrigo Salles Pereira dos Santos,Camilo Flamarion
+267,Rodrigo Salles Pereira dos Santos,João Feres Jr
+268,Rodrigo Salles Pereira dos Santos,San Romanelli Assumpção
+269,Rodrigo Salles Pereira dos Santos,
+270,Rodrigo Salles Pereira dos Santos,Cristiano Fonseca Monteiro
+271,Rodrigo Salles Pereira dos Santos,Gustavo Antonio das Neves Bezerra
+272,Rodrigo Salles Pereira dos Santos,Raphael Jonathas da Costa Lima
+273,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
+274,Rodrigo Salles Pereira dos Santos,Maíra Sertã Mansur
+275,Rodrigo Salles Pereira dos Santos,Maurício de Oliveira Penna Firme Pellini
+276,Rodrigo Salles Pereira dos Santos,Tarik Dias Hamdan
+277,Rodrigo Salles Pereira dos Santos,Rodolfo Palazzo Dias
+278,Rodrigo Salles Pereira dos Santos,Lucas Lemos Walmrath
+279,Rodrigo Salles Pereira dos Santos,Mayra Luíza Pinheiro da Silva
+280,Rodrigo Salles Pereira dos Santos,Vítor Rodrigues Ferreira
+281,Rodrigo Salles Pereira dos Santos,Marcio Moises de Souza Barbosa
+282,Rodrigo Salles Pereira dos Santos,Ana Paula Vasconcelos Gonçalves
+283,Rodrigo Salles Pereira dos Santos,Leonardo Nogueira Aucar
+284,Rodrigo Salles Pereira dos Santos,Cloviomar Cararine Pereira
+285,Rodrigo Salles Pereira dos Santos,Gilse Barbosa Guedes
+286,Rodrigo Salles Pereira dos Santos,Luis Isidro Rogerio Bembele
+287,Rodrigo Salles Pereira dos Santos,Mahatma Ramos dos Santos
+288,Rodrigo Salles Pereira dos Santos,Diego José Nogueira Fraga
+289,Rodrigo Salles Pereira dos Santos,João Pedro Machado Lino do Nascimento
+290,Rodrigo Salles Pereira dos Santos,Diego Moreira Maggi
+291,Rodrigo Salles Pereira dos Santos,Caroline Pereira de Lima
+292,Rodrigo Salles Pereira dos Santos,Marcos Lázaro Prado
+293,Rodrigo Salles Pereira dos Santos,Angela Maria Dias da Rocha
+294,Rodrigo Salles Pereira dos Santos,Jefferson José da Conceição
+295,Rodrigo Salles Pereira dos Santos,Cássia Cardoso de Miranda
+296,Rodrigo Salles Pereira dos Santos,Gabriela Fraga Fernandez
+297,Rodrigo Salles Pereira dos Santos,Letícia de França Paes
+298,Rodrigo Salles Pereira dos Santos,Lucas Brito Muniz
+299,Rodrigo Salles Pereira dos Santos,Vítor Mussa Tavares Gomes
+300,Rodrigo Salles Pereira dos Santos,
+301,Rodrigo Salles Pereira dos Santos,Bruno Milanez
+302,Rodrigo Salles Pereira dos Santos,Maíra Sertã Mansur
+303,Rodrigo Salles Pereira dos Santos,Luiz Jardim de Moraes Wanderley
+304,Rodrigo Salles Pereira dos Santos,Raquel Giffoni Pinto
+305,Rodrigo Salles Pereira dos Santos,Ricardo Junior de Assis Fernandes Gonçalves
+306,Rodrigo Salles Pereira dos Santos,Tádzio Peters Coelho
+307,Rodrigo Salles Pereira dos Santos,Lucas Magno
+308,Rodrigo Salles Pereira dos Santos,Gustavo Soares Iorio
+309,Rodrigo Salles Pereira dos Santos,
+310,Rodrigo Salles Pereira dos Santos,Cristiano Fonseca Monteiro
+311,Rodrigo Salles Pereira dos Santos,Marina de Carvalho Cordeiro
+312,Rodrigo Salles Pereira dos Santos,Raphael Jonathas da Costa Lima
+313,Rodrigo Salles Pereira dos Santos,José Ricardo Garcia Pereira Ramalho
+314,Rodrigo Salles Pereira dos Santos,Sabrina de Oliveira Moura Dias
+315,Rodrigo Salles Pereira dos Santos,Ana Paula Vasconcelos Gonçalves
+316,Rodrigo Salles Pereira dos Santos,João Assis Dulci
