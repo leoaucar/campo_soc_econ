@@ -11,7 +11,9 @@ print(rede_1.sort_values(by='weight',ascending=False).head())
 # Create the NetworkX graph
 G = nx.from_pandas_edgelist(rede_1, source='Pessoa1', target='Pessoa2', edge_attr='weight')
 
-ego_G = nx.ego_graph(G, 'Rodrigo Salles Pereira dos Santos', radius=1)
+#pessoa = "Rodrigo Salles Pereira dos Santos"
+pessoa = "Cristiano Fonseca Monteiro"
+ego_G = nx.ego_graph(G, pessoa, radius=1)
 
 # Print basic graph information
 print(f"Number of nodes: {G.number_of_nodes()}")

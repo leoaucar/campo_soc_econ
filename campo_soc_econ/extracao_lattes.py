@@ -6,9 +6,10 @@ import pandas as pd
 path_dados = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..','Data','raw'))
 
 #define arquivos para busca
-arquivo = 'Currículo do Sistema de Currículos Lattes (Rodrigo Salles Pereira dos Santos).html'
+#arquivo = 'Currículo do Sistema de Currículos Lattes (Rodrigo Salles Pereira dos Santos).html'
+arquivo = 'Currículo do Sistema de Currículos Lattes (Cristiano Fonseca Monteiro).html'
 path_arquivo = os.path.abspath(os.path.join(path_dados,arquivo))
-path_arquivo = r'C:\Users\leoau\Documents\campo_soc_econ\campo_soc_econ\Data\raw\Currículo do Sistema de Currículos Lattes (Rodrigo Salles Pereira dos Santos).html'
+#path_arquivo = r'C:\Users\leoau\Documents\campo_soc_econ\campo_soc_econ\Data\raw\Currículo do Sistema de Currículos Lattes (Rodrigo Salles Pereira dos Santos).html'
 
 #parseia o HTML
 with open(path_arquivo, "r") as file:
