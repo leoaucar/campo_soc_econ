@@ -13,7 +13,7 @@ def lista_arquivos():
     return paths
 
 def obtem_html(path_arquivo):
-    with open(path_arquivo, "r") as file:
+    with open(path_arquivo, "r", encoding="latin1") as file:
         # Read the file content
         html_content = file.read()
     soup = BeautifulSoup(html_content, "html.parser")
@@ -34,26 +34,36 @@ def extrai_colaboradores(soup):
     pessoa = i[0]
     return colaboradores, pessoa
 
-def adiciona_ao_csv(colaboradores,pessoa):
+def adiciona_ao_csv(colaboradores,pessoa,df):
     rede = pd.DataFrame(columns=['Pessoa1','Pessoa2'])
     rede['Pessoa2'] = colaboradores
     rede['Pessoa1'] = pessoa
-    rede.to_csv('rede_'+pessoa+'.csv')
+    df = pd.concat([df,rede])
+    return df
 
 paths = lista_arquivos()
+df = pd.DataFrame()
 for path in paths:
     soup = obtem_html(path)
+    #extrai rede
     colaboradores, pessoa = extrai_colaboradores(soup)
-    adiciona_ao_csv(colaboradores, pessoa)
-
-
-'''#extrai resumo
-paragraphs = soup.find_all('p', class_='resumo')
-for p in paragraphs:
-    pass
-    #print(p.text)
-
-#extrai projetos
+    df = adiciona_ao_csv(colaboradores, pessoa, df)
+    df.to_csv('campo_soc_econ/Data/processed/rede_soc_econ.csv')
+    #nome
+    #atuacao profissional (vinc. instutucional)
+    #formacao (vinc. instutucional)
+    # #extrai resumo
+    resumos = soup.find_all('p', class_='resumo')
+    for resumo in resumos:
+        print('novo caso\n\n\n')
+        print(resumo.text)
+    #linhas de pesquisa
+    #areas de atuacao
+    #projetos
+    #orientacoes
+    #coautorias
+    
+'''#extrai projetos
 projetos = soup.find_all('div', class_='layout-cell-pad-5')
 for p in projetos:
     pass
